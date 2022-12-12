@@ -1,7 +1,7 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-import "./";
+import './styles.css'
 
 export default function App() {
   return (
